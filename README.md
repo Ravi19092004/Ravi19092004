@@ -76,7 +76,8 @@ Hi! I'm **Ravishankar Gharabidi**, a passionate **Full-Stack Developer & AI/ML E
 - **Frontend**: React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Bootstrap
 - **Backend**: Node.js, Express.js, Django, Flask
 - **Databases**: MongoDB, PostgreSQL, MySQL, Redis
-- **Languages**: JavaScript, TypeScript, Python, Java, C++
+- **Languages**: JavaScript, TypeScript, Python, Java
+- **ML/AI Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, Matplotlib
 - **Tools**: Git, GitHub, Docker, AWS, VS Code, Postman
 
 ---
@@ -304,12 +305,12 @@ Hi! I'm **Ravishankar Gharabidi**, a passionate **Full-Stack Developer & AI/ML E
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Fun GIF" width="300" height="200"/>
 </div>
 
-- 🎵 **Music**: Lo-fi beats, Electronic, Classical
+- 🎵 **Music**: Lo-fi beats, Electronic
 - 📚 **Reading**: Tech blogs, Sci-fi novels, Philosophy
 - 🎮 **Gaming**: Strategy games, Puzzle solvers, RPGs
-- ☕ **Fuel**: Coffee, Energy drinks, Curiosity
-- 🌱 **Hobbies**: Photography, Digital Art, Chess
-- 🏃 **Sports**: Cricket, Badminton, Cycling
+- ☕ **Fuel**: Coffee, Gossiping, Curiosity
+- 🌱 **Hobbies**: Photography, Digital Art, Carrom
+- 🏃 **Sports**: Cricket, Kabbadi, Cycling
 
 ---
 
@@ -338,7 +339,7 @@ Hi! I'm **Ravishankar Gharabidi**, a passionate **Full-Stack Developer & AI/ML E
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
+  <a href="https://discord.gg/ravishankargharabidi" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
