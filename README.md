@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravi19092004&theme=radical&no-frame=false&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravi19092004&theme=radical&no-frame=false&bg_color=000000&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -67,7 +67,12 @@ Hi! I'm **Ravishankar Gharabidi**, a passionate **Full-Stack Developer & AI/ML E
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,python,django,typescript,javascript,html,css,tailwind,git,github,docker,aws,linux,vscode&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,python,django,typescript,javascript,html,css,tailwind,git,github,docker,aws,linux,gcp,vscode&perline=8" alt="Tech Stack" />
+  <br>
+  <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI-purple?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-orange?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 </div>
 
 ---
@@ -87,10 +92,6 @@ Hi! I'm **Ravishankar Gharabidi**, a passionate **Full-Stack Developer & AI/ML E
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravi19092004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi19092004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi19092004&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A855F7&sideLabels=A855F7" alt="GitHub Streak" />
 </div>
 
 ---
@@ -314,11 +315,9 @@ Hi! I'm **Ravishankar Gharabidi**, a passionate **Full-Stack Developer & AI/ML E
 
 ---
 
-## 📈 Recent Activity
+## 📊 Detailed Analytics
 
-<div align="center">
-  <h3>🔥 Recent GitHub Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi19092004&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFFFFF" alt="Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi19092004&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </div>
 
 ---
