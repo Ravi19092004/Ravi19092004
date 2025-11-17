@@ -24,13 +24,6 @@
 ---
 
 <div align="center">
-  <h2>🔥 Current Coding Streak</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi19092004&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B&sideLabels=4ECDC4" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
   <h2>📊 Languages & Technologies</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi19092004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
 </div>
