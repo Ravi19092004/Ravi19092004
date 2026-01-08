@@ -1,259 +1,302 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&width=1000&lines=🌟+Welcome+to+My+GitHub+Universe+🌟;👋+Hi,+I'm+Ravishankar+Gharabidi;🚀+Ai/Ml+%7C+Full-Stack+Developer+%7C+Tech+Innovator;💻+Building+the+Future+with+Code;🔥+Passionate+Problem+Solver+%7C+Creative+Thinker" alt="Typing SVG" />
+
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ravishankar%20Gharabidi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Tech%20Innovator&descSize=18&descAlignY=55" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+intelligent+AI+systems+%F0%9F%A4%96;Crafting+seamless+web+experiences+%F0%9F%8C%90;Solving+complex+problems+with+code+%F0%9F%92%BB;Always+learning%2C+always+innovating+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<!-- Social Badges with Icons -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravishankar-gharabidi-35bb2b262)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgharabidi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravi19092004)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+<br/>
+
+<!-- Profile Views & Followers -->
+![Profile Views](https://komarev.com/ghpvc/?username=Ravi19092004&color=blueviolet&style=for-the-badge&label=Profile+Views)
+[![GitHub Followers](https://img.shields.io/github/followers/Ravi19092004?style=for-the-badge&color=blue&logo=github)](https://github.com/Ravi19092004?tab=followers)
+
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+I'm a passionate **AI/ML Developer** and **Full-Stack Engineer** with a knack for building intelligent systems that make a difference. Currently pursuing BTech in Computer Science with AI specialization at Parul Institute of Technology, I transform complex challenges into elegant, scalable solutions.
+
+**Currently:**
+- 🔬 Working as **AI/ML Developer Intern** @ Mamo TechnoLabs
+- 🎓 Pursuing **BTech CSE (AI)** @ Parul Institute of Technology
+- 🌱 Learning **Advanced ML Models, Cloud Architecture, System Design**
+- 💡 Building **AI-powered applications** and **full-stack solutions**
+- 📍 Based in **Boisar, Maharashtra, India** 🇮🇳
+
+**Quick Facts:**
+```javascript
+const ravishankar = {
+  pronouns: "He/Him",
+  code: ["JavaScript", "TypeScript", "Python", "Java"],
+  askMeAbout: ["Web Dev", "AI/ML", "Cloud", "Cybersecurity"],
+  technologies: {
+    frontEnd: ["React", "Next.js", "Vue.js", "TailwindCSS"],
+    backEnd: ["Node.js", "Express", "Django", "Flask"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    aiMl: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas"],
+    devOps: ["Docker", "AWS", "GCP", "CI/CD"],
+  },
+  currentFocus: "Building production-ready AI/ML applications",
+  funFact: "I debug with coffee and code with curiosity ☕💻"
+};
+```
+
+<br clear="right"/>
+
+---
+
+## 🚀 Tech Stack & Tools
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ravi19092004&theme=radical&no-frame=false&bg_color=000000&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
 ---
 
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=940&lines=🎯+Always+Learning+•+Always+Building+•+Always+Innovating;💡+Turning+Ideas+into+Reality+Through+Code;🌍+Connecting+Technology+with+Humanity" alt="Dynamic Text" />
+
+### 📈 My GitHub Journey
+
+| Metric | Details |
+|--------|---------|
+| 🎯 **Total Repositories** | 10+ Projects |
+| ⭐ **Total Stars** | Growing Daily |
+| 📝 **Contributions** | Active & Consistent |
+| 👥 **Followers** | Building Community |
+| 🔥 **Current Streak** | Coding Every Day |
+| 💻 **Top Languages** | JavaScript, Python, TypeScript |
+
+<br/>
+
+### 🔗 View Live Stats
+
+**Visit my profile for real-time statistics:** [github.com/Ravi19092004](https://github.com/Ravi19092004)
+
+<br/>
+
+### 📅 Recent Activity
+
+```
+🟢 Active Contributor
+📊 Regular Commits
+🚀 Building AI/ML Projects
+💡 Open Source Enthusiast
+```
+
 </div>
 
 ---
 
-<div align="center">
-  <h2>🎨 My Coding Journey in Numbers</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravi19092004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&icon_color=4ECDC4&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi19092004&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ff6b6b&area=true&area_color=6366f1" alt="Contribution Graph" width="95%"/>
+
 </div>
 
 ---
 
+## 🌟 Featured Projects
+
 <div align="center">
-  <h2>📊 Languages & Technologies</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi19092004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Authentication Service Provider
+
+**Tech Stack:** Next.js • NextAuth.js • Prisma • PostgreSQL
+
+Comprehensive authentication service with OAuth providers (Google, GitHub), email verification, role-based access control, and secure session management.
+
+**Key Features:**
+- 🔒 Multiple OAuth providers
+- ✉️ Email verification system
+- 👥 Role-based access control
+- 🔐 Secure password hashing
+- 📱 Responsive design
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravi19092004/Authentication-Service-Provider)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 JasnMart E-Commerce Platform
+
+**Tech Stack:** MERN Stack • Stripe • Redis • JWT
+
+Full-featured e-commerce platform with shopping cart, payment integration, coupon system, and comprehensive admin dashboard with analytics.
+
+**Key Features:**
+- 🛍️ Product catalog & search
+- 💳 Stripe payment integration
+- 🎟️ Coupon system
+- 📊 Admin analytics dashboard
+- 🚀 Redis caching
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravi19092004/JasnMart)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ DataShield - AI Phishing Detector
+
+**Tech Stack:** React • TypeScript • Machine Learning • REST API
+
+AI-powered cybersecurity tool for real-time phishing detection with URL scanning, trust score analysis, and comprehensive threat reporting.
+
+**Key Features:**
+- 🤖 AI-powered detection
+- 🔍 Real-time URL scanning
+- 📊 Trust score analysis
+- 🎨 Cyber-themed UI
+- 📱 Responsive design
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravi19092004/DataShield-Frontend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏪 RaviStore - Modern E-Commerce
+
+**Tech Stack:** PERN Stack (PostgreSQL • Express • React • Node.js)
+
+Modern e-commerce platform with complete product management, user authentication, shopping cart functionality, and order tracking.
+
+**Key Features:**
+- 📦 Product management
+- 🔐 User authentication
+- 🛒 Shopping cart
+- 📋 Order tracking
+- 💼 Admin panel
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravi19092004/ravistore)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🌟 About Me
+## 🏆 Certifications & Achievements
 
 <div align="center">
-  <h2>🚀 Welcome to My Digital Universe! 🌟</h2>
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300"/>
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=940&lines=Passionate+Full-Stack+Developer;AI/ML+Enthusiast+%7C+Tech+Innovator;Code+Architect+%7C+Creative+Thinker;Always+Learning+%7C+Always+Building" alt="About Me Typing" />
-</div>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
+<b>Oracle Cloud Infrastructure</b><br/>
+<sub>2025 AI Foundations Associate</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
+<b>Fusion AI Studio</b><br/>
+<sub>Foundations Associate - Rel 1</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/><br/>
+<b>AI Fundamentals</b><br/>
+<sub>IBM SkillsBuild - Cisco Academy</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/NPTEL-0056D2?style=for-the-badge&logo=google-scholar&logoColor=white"/><br/>
+<b>Computer Networks</b><br/>
+<sub>IIT Kharagpur</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Hackathon-FF6B6B?style=for-the-badge&logo=dev.to&logoColor=white"/><br/>
+<b>ScrollHack</b><br/>
+<sub>Certificate of Appreciation</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/More-6366F1?style=for-the-badge&logo=certificate&logoColor=white"/><br/>
+<b>Coming Soon</b><br/>
+<sub>AWS & GCP Certifications</sub>
+</td>
+</tr>
+</table>
 
-Hi! I'm **Ravishankar Gharabidi**, a passionate **Full-Stack Developer & AI/ML Enthusiast** from Boisar, Maharashtra 🇮🇳. I love turning ideas into reality through code, with a strong focus on AI/ML applications and web development. My journey in tech is driven by curiosity, creativity, and a constant desire to learn and innovate.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-AI/ML+%26+Web_Development-blue?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-green?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Experience-Internship-orange?style=for-the-badge&logo=javascript&logoColor=white" alt="Experience" />
-</div>
-
-- 🔭 Currently working as **AI/ML Developer Intern** at Mamo TechnoLabs
-- 🌱 Pursuing **BTech CSE with AI specialization** at Parul Institute of Technology
-- 💬 Ask me about **React**, **Node.js**, **Python**, **Machine Learning**, **Databases**
-- 📫 Reach me at: [rgharabidi@gmail.com](mailto:rgharabidi@gmail.com) | 📞 +91-8080255989
-- ⚡ Fun fact: I can debug code while juggling coffee cups! ☕
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,python,django,typescript,javascript,html,css,tailwind,git,github,docker,aws,linux,gcp,vscode&perline=8" alt="Tech Stack" />
-  <br>
-  <img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/GenAI-purple?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-orange?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-</div>
-
----
-
-### 🚀 Languages & Frameworks
-- **Frontend**: React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js, Django, Flask
-- **Databases**: MongoDB, PostgreSQL, MySQL, Redis
-- **Languages**: JavaScript, TypeScript, Python, Java
-- **ML/AI Frameworks**: TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, Matplotlib
-- **Tools**: Git, GitHub, Docker, AWS, VS Code, Postman
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravi19092004&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi19092004&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Ravi19092004/Authentication-Service-Provider">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi19092004&repo=Authentication-Service-Provider&theme=radical&hide_border=true&bg_color=0D1117" alt="Authentication Service Provider" />
-  </a>
-  <a href="https://github.com/Ravi19092004/JasnMart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi19092004&repo=JasnMart&theme=radical&hide_border=true&bg_color=0D1117" alt="JasnMart" />
-  </a>
-  <a href="https://github.com/Ravi19092004/DataShield-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi19092004&repo=DataShield-Frontend&theme=radical&hide_border=true&bg_color=0D1117" alt="DataShield Frontend" />
-  </a>
-  <a href="https://github.com/Ravi19092004/ravistore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravi19092004&repo=RAVISTORE&theme=radical&hide_border=true&bg_color=0D1117" alt="RaviStore" />
-  </a>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Auth_Service-Next.js-blue?style=for-the-badge&logo=next.js" alt="Auth Service" />
-        <br />
-        <strong>Authentication Service Provider</strong>
-        <br />
-        Next.js, NextAuth.js, Prisma
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/E--Commerce-React-green?style=for-the-badge&logo=react" alt="JasnMart" />
-        <br />
-        <strong>JasnMart</strong>
-        <br />
-        Node.js, MongoDB, Stripe
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Cybersecurity-React-red?style=for-the-badge&logo=shield" alt="DataShield" />
-        <br />
-        <strong>DataShield Frontend</strong>
-        <br />
-        AI-powered phishing detection
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/E--Commerce-PERN-purple?style=for-the-badge&logo=postgresql" alt="RaviStore" />
-        <br />
-        <strong>RaviStore</strong>
-        <br />
-        PostgreSQL, Express, React, Node.js
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🌟 Project Highlights
-
-- [**Authentication Service Provider**](https://github.com/Ravi19092004/Authentication-Service-Provider) - A comprehensive auth service with Next.js, NextAuth.js, Prisma, supporting multiple OAuth providers, email verification, and role-based access.
-- [**JasnMart**](https://github.com/Ravi19092004/JasnMart) - Full-stack e-commerce platform with Node.js, Express, MongoDB, React, featuring shopping cart, Stripe payments, coupon system, and admin analytics.
-- [**DataShield Frontend**](https://github.com/Ravi19092004/DataShield-Frontend) - AI-powered phishing detection frontend with React, TypeScript, real-time URL scanning, trust scores, and cyber-themed UI.
-- [**RaviStore**](https://github.com/Ravi19092004/ravistore) - A modern e-commerce platform built with the PERN stack (PostgreSQL, Express, React, Node.js), featuring product management, shopping cart, and user authentication.
-
----
-
-## 🎯 Current Focus & Learning Path
-
-<div align="center">
-  <h3>🔥 Currently Mastering</h3>
-  <img src="https://skillicons.dev/icons?i=ai,cloudflare,cybersecurity,machinelearning&perline=4" alt="Learning" />
-</div>
-
-- 🔒 **Cybersecurity Projects**: Building tools for safe browsing and threat detection
-- 🛒 **E-Commerce Solutions**: Developing scalable online stores
-- 🔐 **Authentication Systems**: Creating secure, user-friendly auth flows
-- 🤖 **AI Integration**: Exploring machine learning in web applications
-
-<div align="center">
-  <h3>📚 Learning Journey</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi19092004&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 Certifications & Courses
-
-<div align="center">
-  <h3>📜 Professional Certifications</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure-blue?style=for-the-badge&logo=oracle" alt="OCI" />
-        <br />
-        <strong>Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Oracle-Fusion_AI_Studio-green?style=for-the-badge&logo=oracle" alt="Fusion AI" />
-        <br />
-        <strong>Oracle Fusion AI Studio Foundations Associate - Rel 1</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Cisco-Networking_Academy-red?style=for-the-badge&logo=cisco" alt="Cisco" />
-        <br />
-        <strong>AI Fundamentals with IBM SkillsBuild – Cisco Networking Academy</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Computer_Networks-NPTEL-purple?style=for-the-badge&logo=internet-explorer" alt="NPTEL" />
-        <br />
-        <strong>Computer Networks and Internet Protocol (IIT Kharagpur - NPTEL)</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/ScrollHack-Hackathon-orange?style=for-the-badge&logo=github" alt="Hackathon" />
-        <br />
-        <strong>Certificate of Appreciation, ScrollHack Hackathon</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/IBM-SkillsBuild-blue?style=for-the-badge&logo=ibm" alt="IBM" />
-        <br />
-        <strong>AI Fundamentals with IBM SkillsBuild (Sep 2025)</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 📚 Recent Courses & Learning
-- **Machine Learning with Python** - Coursera (Andrew Ng)
-- **React & Next.js Mastery** - Udemy
-- **Cybersecurity Fundamentals** - Cybrary
-- **Docker & Kubernetes** - Linux Academy
-
----
-
-## 🚀 Currently Working On
-
-<div align="center">
-  <h3>💻 Active Projects</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Portfolio_Website-React-blue?style=for-the-badge&logo=react" alt="Portfolio" />
-        <br />
-        <strong>Personal Portfolio</strong>
-        <br />
-        <progress value="75" max="100"></progress>
-        <br />
-        75% Complete
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI_Assistant-Python-green?style=for-the-badge&logo=python" alt="AI Assistant" />
-        <br />
-        <strong>AI Code Assistant</strong>
-        <br />
-        <progress value="60" max="100"></progress>
-        <br />
-        60% Complete
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Dev_Tool-Node.js-purple?style=for-the-badge&logo=node.js" alt="Dev Tool" />
-        <br />
-        <strong>Developer Toolkit</strong>
-        <br />
-        <progress value="40" max="100"></progress>
-        <br />
-        40% Complete
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -261,90 +304,174 @@ Hi! I'm **Ravishankar Gharabidi**, a passionate **Full-Stack Developer & AI/ML E
 ## 💼 Professional Experience
 
 <div align="center">
-  <h3>🏢 Work Experience</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI/ML_Developer_Intern-Python/TensorFlow-blue?style=for-the-badge&logo=python" alt="AI/ML Intern" />
-        <br />
-        <strong>AI/ML Developer Intern</strong>
-        <br />
-        Mamo TechnoLabs
-        <br />
-        Vadodara, GJ
-        <br />
-        Sep 2025 - Present
-      </td>
-    </tr>
-  </table>
+
+```mermaid
+timeline
+    title Professional Journey
+    section 2024
+      IIT Kharagpur NPTEL : Computer Networks Certification
+      ScrollHack Hackathon : Certificate of Appreciation
+    section 2025
+      Mamo TechnoLabs : AI/ML Developer Intern (Sep - Present)
+      Oracle Certifications : AI Foundations & Fusion AI Studio
+      IBM SkillsBuild : AI Fundamentals with Cisco
+```
+
 </div>
 
-### 🔧 Key Responsibilities & Achievements
-- **Applied ML Development**: Working on machine learning model development and deployment tasks
-- **Data Processing**: Gained hands-on experience in data preprocessing, feature engineering, and model training
-- **AI Solutions**: Collaborated on building AI/ML solutions aligned with real-world client requirements
-- **Skill Enhancement**: Strengthened skills in Python, TensorFlow, Scikit-learn, and cloud deployment practices
+### 🔬 AI/ML Developer Intern @ Mamo TechnoLabs
+**Sep 2025 - Present | Vadodara, Gujarat**
+
+- 🤖 Developing and deploying machine learning models for real-world applications
+- 📊 Processing and analyzing large datasets for model training and validation
+- ☁️ Implementing cloud-based ML solutions using AWS and GCP
+- 🔧 Collaborating with cross-functional teams on AI-powered product features
+- 📈 Optimizing model performance and deployment pipelines
+
+**Technologies Used:** Python, TensorFlow, PyTorch, Scikit-learn, AWS, Docker, Git
 
 ---
 
-## 🎪 Fun Facts & Random
+## 📈 What I'm Currently Working On
 
 <div align="center">
-  <h3>🎲 Random Fun Facts</h3>
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
-</div>
 
-<div align="center">
-  <h3>🎮 When I'm not coding...</h3>
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Fun GIF" width="300" height="200"/>
-</div>
+| Project | Progress | Description |
+|---------|----------|-------------|
+| 🎨 **Personal Portfolio** | `███████████████░░░░░ 75%` | Building a stunning portfolio with Next.js & Three.js |
+| 🤖 **AI Code Assistant** | `████████████░░░░░░░░ 60%` | AI-powered code assistant with GPT-4 integration |
+| 🔧 **Developer Toolkit** | `████████░░░░░░░░░░░░ 40%` | Comprehensive toolkit for developers |
 
-- 🎵 **Music**: Lo-fi beats, Electronic
-- 📚 **Reading**: Tech blogs, Sci-fi novels, Philosophy
-- 🎮 **Gaming**: Strategy games, Puzzle solvers, RPGs
-- ☕ **Fuel**: Coffee, Gossiping, Curiosity
-- 🌱 **Hobbies**: Photography, Digital Art, Carrom
-- 🏃 **Sports**: Cricket, Kabbadi, Cycling
-
----
-
-## 📊 Detailed Analytics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi19092004&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </div>
 
 ---
 
-## 💬 Let's Connect & Collaborate
+## 🎯 2025 Goals & Focus Areas
 
 <div align="center">
-  <h3>🌐 Find Me Online</h3>
-  <a href="https://linkedin.com/in/ravishankar-gharabidi-35bb2b262" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ravi19092004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:ravishankargharabidi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://discord.gg/ravishankargharabidi" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+
+| Goal | Progress | Target |
+|------|----------|--------|
+| 🚀 **Open Source Contributions** | `██████░░░░░░░░░░░░░░ 30%` | 10+ Projects |
+| 🤖 **AI/ML Applications** | `████████░░░░░░░░░░░░ 40%` | 5 Production Apps |
+| ☁️ **Cloud Certifications** | `████░░░░░░░░░░░░░░░░ 20%` | AWS + GCP |
+| 📝 **Technical Blogs** | `██░░░░░░░░░░░░░░░░░░ 10%` | 20+ Articles |
+| 🎓 **System Design Mastery** | `██████████░░░░░░░░░░ 50%` | Advanced Level |
+
+</div>
+
+**Current Focus:**
+- 🔥 Building production-ready ML models with TensorFlow & PyTorch
+- 🌐 Developing scalable full-stack applications with modern frameworks
+- 🔒 Exploring cybersecurity and penetration testing
+- ☁️ Mastering cloud architecture patterns and microservices
+- 📚 Contributing to open-source AI/ML projects
+
+---
+
+## 🎨 Skills Visualization
+
+<div align="center">
+
+```javascript
+const skillLevels = {
+  "AI/ML": "████████████████████░ 95%",
+  "Full-Stack Development": "███████████████████░░ 90%",
+  "Cloud & DevOps": "████████████████░░░░░ 80%",
+  "Database Management": "█████████████████░░░░ 85%",
+  "System Design": "███████████████░░░░░░ 75%",
+  "Cybersecurity": "██████████████░░░░░░░ 70%",
+  "UI/UX Design": "█████████████░░░░░░░░ 65%"
+};
+```
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🤖 Building Production-Ready ML Models: Best Practices
+- 🚀 Scaling Full-Stack Applications with Microservices
+- 🔒 Implementing Zero-Trust Security in Modern Web Apps
+- ☁️ Cloud Architecture Patterns for AI/ML Workloads
+- 📊 Data Pipeline Optimization: From ETL to Real-Time Processing
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💡 Let's Connect & Collaborate!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects! Here's what I'm particularly interested in:
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50"/><br/>
+<b>AI/ML Projects</b><br/>
+<sub>Neural Networks<br/>NLP, Computer Vision</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/code.png" width="50"/><br/>
+<b>Full-Stack Apps</b><br/>
+<sub>MERN/PERN Stack<br/>Scalable Solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/cloud.png" width="50"/><br/>
+<b>Cloud Solutions</b><br/>
+<sub>AWS, GCP<br/>Serverless, Containers</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/security-checked.png" width="50"/><br/>
+<b>Cybersecurity</b><br/>
+<sub>Penetration Testing<br/>Secure Applications</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📫 Reach Out To Me
+
+<a href="https://linkedin.com/in/ravishankar-gharabidi-35bb2b262">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rgharabidi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Ravi19092004">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="tel:+918080255989">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ⚡ "Code is poetry written in logic, and I'm here to write masterpieces"
+
+<br/>
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>⭐ Thanks for visiting! Don't forget to star my repos if you find them useful! ⭐</h3>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Thank You GIF" width="200" height="150"/>
-</div>
 
----
+### 💖 Thank you for visiting my profile!
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+**Let's build something amazing together!**
+
+**Open to collaborations and opportunities • Feel free to reach out!**
+
+**If you find my work interesting, don't forget to ⭐ star my repositories!**
+
+<br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 </div>
